@@ -1,0 +1,37 @@
+.lesson{
+    font-size:10px;
+}
+.students{
+    font-size: 10px;
+}
+.settings{
+    font-size: 10px;
+}
+.leftfill{
+    position: absolute;
+    top: 17%;
+    left: 7%;
+}
+.videourl{
+    position: absolute;
+    top: 25%;
+    left: 16%;
+}
+.or{
+    position: absolute;
+    top:37%;
+    left: 22%;
+}
+.mb-3{
+    position: absolute;
+    top: 40%;
+    left: 16%;
+}
+body{
+    background-color: rgba(14, 14, 70, 0.068);
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 16%;
+}
